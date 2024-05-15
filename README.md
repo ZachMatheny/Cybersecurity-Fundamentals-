@@ -42,3 +42,38 @@
  </body>
 </html>
 
+<html>
+	<body>
+		<h1> Enabling Windows Active Directory and User Access Controls</h1>
+			<h2> Overview</h2>
+				<p>
+				In my exploration of this project, I delved into fundamental principles of information system security. 
+				Throughout the session, I grasped the significance of three critical elements crucial for an effective security
+				program: Identification, Authorization, and Authentication. As I delved into practical
+				applications, I learned how Authentication and access control serve as pivotal controls wielded
+				by the Domain User Admin to orchestrate user accounts and resource permissions. Moreover, 
+				I gained insights into the nuanced realm of access controls and permissions on Windows network 
+				shares, understanding the efficacy of Security Policy-based controls like "List Folder Contents." 
+				The Group Policy Editor emerged as a centralized command center for managing granular policies and permissions across the network.
+				Expanding my knowledge further, I explored the concept of two-factor authentication, recognizing its role in fortifying security by requiring dual authentication methods for user access. 
+				To uphold Confidentiality, Integrity, and Availability (CIA) for departmental LANs and data, I employed Windows Server Active Directory to configure access controls within the Active Directory domain partition.
+				Additionally, I acknowledged the importance of safeguarding against password vulnerabilities, such as abstaining from incorporating account or username information. Through practical insights and hands-on experience, 
+				this session underscored the imperative of implementing robust security measures to safeguard information systems and resources in contemporary digital landscapes.
+				</p>
+			<h2> Tools Used </h2>
+				<p>
+				In exploring "Enabling Windows Active Directory and User Access Controls," I engaged with a suite of tools and technologies essential for implementing robust security measures in Windows environments.
+				These tools empower users to configure user access controls, manage permissions, and uphold the integrity of information systems. Let's delve into the tools and technologies leveraged in this endeavor:
+				</p>
+				<ul>
+				<li><strong>Windows Active Directory:</strong> Windows Active Directory serves as the backbone for user authentication and access management in Windows environments.
+				It provides a centralized database for storing user accounts, group memberships, and security policies, enabling administrators to manage network resources efficiently.  </li>
+				<li><strong>Group Policy Editor:</strong> The Group Policy Editor is a powerful tool for managing granular policies and permissions across Windows networks. It allows administrators to define and enforce security settings,
+				software installation policies, and other configurations for users and computers within an Active Directory environment.  </li>
+				<li><strong>Two-Factor Authentication (2FA):</strong> Two-Factor Authentication enhances security by requiring users to provide two different forms of identification before granting access.
+				This typically involves something the user knows (like a password) and something they possess (like a smartphone or token), adding an extra layer of protection against unauthorized access.  </li>
+				</ul>
+	</body>
+</html>
+
+
